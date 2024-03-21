@@ -1,1 +1,2 @@
 # Philosophers
+# dainning phelosopher problem
