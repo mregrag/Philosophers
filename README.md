@@ -1,5 +1,8 @@
 # The dining Philosophers problem
 ![An_illustration_of_the_dining_philosophers_problem](https://github.com/mregrag/Phelosophers/assets/106615042/75c39268-e53f-450b-95a1-9028c2bb18c2)
+
+## the things you need to know 
+
 One or more philosophers sit at a round table.
 There is a large bowl of spaghetti in the middle of the table
 
@@ -24,3 +27,9 @@ Philosophers don’t speak with each other.
 Philosophers don’t know if another philosopher is about to die.
 
 No need to say that philosophers should avoid dying
+
+## Your(s) program(s) should take the following arguments:
+
+number_of_philosophers time_to_die time_to_eat time_to_sleep
+[number_of_times_each_philosopher_must_eat]
+
